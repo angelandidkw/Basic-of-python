@@ -76,6 +76,6 @@
 # print(choose_a_veriable_of_your_choice_1) # Output: ['Mark', 'Zack', 'Miranda', 'Zack', 'Mary']
 #  first we are choosing any veriable then making list using () or [] then we are printing veriable because it reference the list
 
-x = ("Mark", "Zack", "Miranda", "Zack", "Mary")
+# x = ("Mark", "Zack", "Miranda", "Zack", "Mary")
 
-print(x[0])
+# print(x[0])
